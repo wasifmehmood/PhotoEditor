@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!--    TEST ADS -->
+
+        <string name="app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+        <string name="Banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+        <string name="Interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+        <string name="native_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+
+
+</resources>

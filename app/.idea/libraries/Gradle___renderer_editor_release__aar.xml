@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :renderer-editor-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ae16dd062125c07f0d32957b8ebae42/jetified-renderer-editor-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ae16dd062125c07f0d32957b8ebae42/jetified-renderer-editor-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
